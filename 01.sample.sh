@@ -1,2 +1,4 @@
 ls -l
-pwd4
+pwd
+
+yum list installed | grep vim
